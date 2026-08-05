@@ -16,4 +16,4 @@ This is a simple Python Number Guessing Game. The computer chooses a random numb
 3. Enter your guesses and enjoy the game.
 
 ## Submitted by:
-Farheen
+Syed Farheen Qadri
